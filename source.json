@@ -1,19 +1,19 @@
 {
-    "name":"Sayamame",
-    "id":"com.github.sayabeans.vpm",
-    "url":"https://sayabeans.github.io/vpm/index.json",
-    "author":{
-        "name":"Sayamame",
-        "url":"https://github.com/Sayamame-beans"
-    },
-    "description":"Sayamame's VPM Repository",
-    "infoLink":{
-        "url":"http://github.com/Sayabeans/vpm",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "Sayamame-Beans/KiseteNe-for-MA"
-    ],
-    "packages":[]
+  "name": "Sayamame",
+  "id": "com.github.sayabeans.vpm",
+  "url": "https://sayabeans.github.io/vpm/index.json",
+  "author": {
+    "name": "Sayamame",
+    "url": "https://github.com/Sayamame-beans"
+  },
+  "description": "Sayamame's VPM Repository",
+  "infoLink": {
+    "url": "http://github.com/Sayabeans/vpm",
+    "text": "View on GitHub"
+  },
+  "bannerUrl": "banner.png",
+  "githubRepos": [
+    "Sayamame-Beans/KiseteNe-for-MA"
+  ],
+  "packages": []
 }
