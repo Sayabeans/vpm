@@ -3,7 +3,7 @@ name: Build Repo Listing
 on:
   workflow_dispatch:
   repository_dispatch:
-    types: [release]
+    types: [Release]
   push:
     branches: master
     paths: source.json
