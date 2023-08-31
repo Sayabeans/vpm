@@ -1,7 +1,7 @@
 # Sayamame's VPM Repository
 
 ## 概要
-[さやまめ](https://github.com/Sayamame-beans)がVPM Package形式で展開しているものを纏めたVPM Repositoryです。
+[さやまめ](https://github.com/Sayamame-beans)がVPM Package形式で配布しているものを纏めたVPM Repositoryです。
 VCCや[vrc-get](https://github.com/anatawa12/vrc-get)などからご利用いただけます。
 
 ## VCCへの追加手順
